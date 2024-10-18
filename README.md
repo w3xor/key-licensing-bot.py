@@ -1,40 +1,38 @@
-# Licencing Discord Bot
+# Licensing Discord Bot
 
-Kibana is your window into the [Elastic Stack](https://www.elastic.co/products). Specifically, it's a browser-based analytics and search dashboard for Elasticsearch.
+The **Licensing Discord Bot** is a Python program built with Discord.py that utilizes the Requests library to communicate with the Cryptolens server via their API. This bot simplifies the process of generating new keys for your tool, eliminating the need to wait for a browser to load.
+
+## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [Building and Running Kibana](#building-and-running-kibana)
+- [Building and Running Kibana](#building-and-running-kibana)
 - [Questions? Problems? Suggestions?](#questions-problems-suggestions)
 
 ## Getting Started
 
-If you would like to run the bot I'll give you a loft of instructions below.
+To run the bot, follow these steps:
 
-1. Create a cryptolens account, and product [here](https://cryptolens.io/).
+1. **Create a Cryptolens Account and Product**: Sign up [here](https://cryptolens.io/).
 
-2. Download the bot.py file, and replace the values at the top with the acctual id and token.
+2. **Download the Bot**: Obtain the `bot.py` file and replace the placeholder values at the top with your actual account ID and token.
 
-3. Create a discord bot [here](https://discord.dev).
+3. **Create a Discord Bot**: Set up your bot [here](https://discord.dev).
 
-4. Get bot's token and add into code.
+4. **Get the Bot Token**: Copy the bot token and add it to your code.
 
-5. Get the role_id of the role you want to have access to keys, then add it after role id in bot.py
+5. **Set Role ID**: Retrieve the `role_id` for the role you want to grant access to keys, and update it in `bot.py`.
 
-6. ctrl + s to save the file, and run it however you normally would.
+6. **Save and Run**: Press `Ctrl + S` to save the file, then run it using your preferred method.
 
 ### Building and Running Kibana
 
-You might want to build Kibana locally to contribute some code, test out the latest features, or try
-out an open PR:
+If you're interested in contributing code or testing the latest features, you may want to build Kibana locally:
 
-- [CONTRIBUTING.md](CONTRIBUTING.md) will help you get Kibana up and running.
-- If you would like to contribute code, please follow our [STYLEGUIDE.mdx](STYLEGUIDE.mdx).
-- For all other questions, check out the [FAQ.md](FAQ.md) and
-[wiki](https://github.com/elastic/kibana/wiki).
+- Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on setting up Kibana.
+- Follow our [STYLEGUIDE.md](STYLEGUIDE.mdx) when contributing code.
+- For additional inquiries, check our [FAQ.md](FAQ.md) and the [wiki](https://github.com/elastic/kibana/wiki).
 
 ## Questions? Problems? Suggestions?
 
-- If you've found a bug or want to request a feature, please create a [GitHub Issue](https://github.com/elastic/kibana/issues/new/choose).
-  Please check to make sure someone else hasn't already created an issue for the same topic.
-- Need help using Kibana? Ask away on our [Kibana Discuss Forum](https://discuss.elastic.co/c/kibana) and a fellow community member or
-Elastic engineer will be glad to help you out.
+- If you encounter a bug or have a feature request, please create a ticket in our support server.
+- Need assistance using the bot? Join our [Discord Server](https://discord.gg/WqJ2jdBYnr), and I’ll be happy to help!
