@@ -14,11 +14,11 @@ To run the bot, follow these steps:
 
 1. **Create a Cryptolens Account and Product**: Sign up [here](https://cryptolens.io/).
 
-2. **Download the Bot**: Obtain the `bot.py` file and replace the placeholder values at the top with your actual account ID and token.
+2. **Download the Bot**: Obtain the `bot.py` file and replace the placeholder values at the top with your actual `Product ID` and `API Token`.
 
 3. **Create a Discord Bot**: Set up your bot [here](https://discord.dev).
 
-4. **Get the Bot Token**: Copy the bot token and add it to your code.
+4. **Get the Bot Token**: Copy the bot Token and add it to your code.
 
 5. **Set Role ID**: Retrieve the `role_id` for the role you want to grant access to keys, and update it in `bot.py`.
 
