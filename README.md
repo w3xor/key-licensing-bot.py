@@ -5,7 +5,6 @@ The **Licensing Discord Bot** is a Python program built with Discord.py that uti
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Building and Running Kibana](#building-and-running-kibana)
 - [Questions? Problems? Suggestions?](#questions-problems-suggestions)
 
 ## Getting Started
@@ -24,13 +23,7 @@ To run the bot, follow these steps:
 
 6. **Save and Run**: Press `Ctrl + S` to save the file, then run it using your preferred method.
 
-### Building and Running Kibana
 
-If you're interested in contributing code or testing the latest features, you may want to build Kibana locally:
-
-- Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on setting up Kibana.
-- Follow our [STYLEGUIDE.md](STYLEGUIDE.mdx) when contributing code.
-- For additional inquiries, check our [FAQ.md](FAQ.md) and the [wiki](https://github.com/elastic/kibana/wiki).
 
 ## Questions? Problems? Suggestions?
 
