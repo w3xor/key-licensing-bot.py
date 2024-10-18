@@ -8,9 +8,19 @@ Kibana is your window into the [Elastic Stack](https://www.elastic.co/products).
 
 ## Getting Started
 
-If you just want to try Kibana out, check out the [Elastic Stack Getting Started Page](https://www.elastic.co/start) to give it a whirl.
+If you would like to run the bot I'll give you a loft of instructions below.
 
-If you're interested in diving a bit deeper and getting a taste of Kibana's capabilities, head over to the [Kibana Getting Started Page](https://www.elastic.co/guide/en/kibana/current/get-started.html).
+1. Create a cryptolens account, and product [here](https://cryptolens.io/).
+
+2. Download the bot.py file, and replace the values at the top with the acctual id and token.
+
+3. Create a discord bot [here](https://discord.dev).
+
+4. Get bot's token and add into code.
+
+5. Get the role_id of the role you want to have access to keys, then add it after role id in bot.py
+
+6. ctrl + s to save the file, and run it however you normally would.
 
 ### Building and Running Kibana
 
