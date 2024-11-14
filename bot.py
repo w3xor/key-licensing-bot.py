@@ -1,6 +1,5 @@
 # updates coming soon for more commands.
-# made by @3298x on discord
-# https://discord.gg/WqJ2jdBYnr
+# made by @wexortdm on discord
 import discord, requests
 from discord import app_commands
 
